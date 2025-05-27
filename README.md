@@ -22,7 +22,7 @@ This theme is supposed to work with current supported Firefox releases:
 
 ### Installation script
 ```sh
-git clone https://github.com/EliverLara/firefox-sweet-theme && cd firefox-sweet-theme
+git clone https://github.com/JochemKuipers/firefox-sweet-theme && cd firefox-sweet-theme
 ./scripts/install.sh
 ```
 
@@ -56,7 +56,7 @@ git clone https://github.com/EliverLara/firefox-sweet-theme && cd firefox-sweet-
 5. Clone this repo to a subdirectory:
 
 	```sh
-	git clone https://github.com/EliverLara/firefox-sweet-theme.git
+	git clone https://github.com/JochemKuipers/firefox-sweet-theme.git
 	```
 
 6. Create single-line user CSS files if non-existent or empty (at least one line is needed for `sed`):
