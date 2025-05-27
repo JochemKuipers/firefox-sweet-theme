@@ -298,6 +298,7 @@ tab[selected]:-moz-window-inactive {
 /* Tab buttons */
 .tab-icon-overlay,
 .tab-close-button {
+	appearance: none !important;
 	-moz-appearance: none !important;
 	border: 0px solid transparent;
 	box-sizing: content-box;
